@@ -1,7 +1,6 @@
 package com.i054114.citips.Utilities;
 
-/**
- * Created by CAMILO on 28/11/2017.
+/**on 28/11/2017.
  */
 
 public class Constans {

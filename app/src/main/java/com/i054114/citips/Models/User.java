@@ -3,7 +3,7 @@ package com.i054114.citips.Models;
 import android.content.Intent;
 
 /**
- * Created by CAMILO on 28/11/2017.
+ * Created by  on 28/11/2017.
  */
 
 public class User {

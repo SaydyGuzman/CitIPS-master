@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import com.i054114.citips.Utilities.Constans;
 
 /**
- * Created by CAMILO on 28/11/2017.
+ * Created by  on 28/11/2017.
  */
 
 public class SqliteHelper extends SQLiteOpenHelper {
